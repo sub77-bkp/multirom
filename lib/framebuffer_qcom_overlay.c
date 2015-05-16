@@ -31,6 +31,8 @@
 #include "framebuffer.h"
 #include "log.h"
 #include "util.h"
+#include "ion.h"
+#include "msm_ion.h""
 
 #ifdef MR_QCOM_OVERLAY_HEADER
 #include MR_QCOM_OVERLAY_HEADER
